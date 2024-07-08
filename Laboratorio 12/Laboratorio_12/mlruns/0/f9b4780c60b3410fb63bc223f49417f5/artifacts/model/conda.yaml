@@ -1,0 +1,14 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.11.5
+- pip<=24.0
+- pip:
+  - mlflow==2.14.2
+  - lz4==4.3.2
+  - pandas==1.5.3
+  - pathlib==1.0.1
+  - psutil==5.9.0
+  - scikit-learn==1.4.0
+  - xgboost==2.0.2
+name: mlflow-env

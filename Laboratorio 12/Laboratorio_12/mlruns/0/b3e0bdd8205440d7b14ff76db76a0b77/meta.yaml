@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturomarin/Desktop/Laboratorio_12/mlruns/0/b3e0bdd8205440d7b14ff76db76a0b77/artifacts
+end_time: 1720289613669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3e0bdd8205440d7b14ff76db76a0b77
+run_name: XGBoost with lr 0.0076
+run_uuid: b3e0bdd8205440d7b14ff76db76a0b77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720289612154
+status: 3
+tags: []
+user_id: arturomarin
